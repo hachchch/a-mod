@@ -1,1 +1,16 @@
-
+[
+        {
+                "name": "魔力収穫所",
+                "replaces": "Garden",
+                "cost": 120,
+                "uniqueTo": "アルカディア",
+                "requiredTech": "Teology",
+                "uniques": ["Provides [2] [マナ]"],
+        },
+        {
+                "name": "",
+                "replaces": "",
+                "cost": ,
+                "uniqueTo": "アルカディア",
+                "requiredTech": "Teology",
+                "uniques": [""],
