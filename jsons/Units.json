@@ -8,8 +8,8 @@
 		"rangedStrength": 42,
 		"cost": 185,
                 "requiredResource": "マナ",
-		"requiredTech": "Teology",
-		"upgradesTo": "Great war Infantry",
+		"requiredTech": "Theology",
+		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Dynamite",
 		"uniques": ["Must set up to ranged attack"],
         }
