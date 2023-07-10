@@ -8,9 +8,13 @@
                 "uniques": ["Provides [2] [マナ]"],
         },
         {
-                "name": "",
-                "replaces": "",
-                "cost": ,
+                "name": "Rolling Magic",
+                "replaces": "Factory",
+                "cost": 360,
                 "uniqueTo": "アルカディア",
                 "requiredTech": "Teology",
-                "uniques": [""],
+                "production": 4,
+                "uniques": ["[+10]% [Production] [in this city]"],
+                "requiredResource": "マナ",
+        }
+]
