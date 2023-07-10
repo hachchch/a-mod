@@ -1,0 +1,16 @@
+[
+        {
+                "name": "魔導師",
+		"unitType": "Magic",
+		"movement": 2,
+		"strength": 21,
+                "range": 2,
+		"rangedStrength": 42,
+		"cost": 185,
+                "requiredResource": "マナ",
+		"requiredTech": "Teology",
+		"upgradesTo": "Great war Infantry",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["Must set up to ranged attack"],
+        }
+]
