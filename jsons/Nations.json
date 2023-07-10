@@ -1,24 +1,24 @@
 [
         {
-                "name": "Minecraft",
+                "name": "マインクラフト",
                 "adjetive": ["Minecraft"],
                 "preferredVictoryType": "Time",
                 "leaderName": "Steve",
                 "innerColor": [0,0,0],
                 "outerColor": [255,255,255],
                 "cities": ["structure"],
-                "uniqueName": "Craft better one",
-                "uniques": ["[+1 Production] from every [Mine]","[+1 Production] from every [Lumber hut]"],
+                "uniqueName": "創造力",
+                "uniques": ["[+1 Production] from every [Mine]","[+1 Production] from every [Lumber mill]","+[5]% Production when constructing [Buildings]","Tile improvement speed +25%"],
         },
         {
-                "name": "Anothers",
+                "name": "アルカディア",
                 "adjective": "Magical",
                 "preferredVictoryType": "Domination",
                 "leaderName": "King-11",
                 "innerColor": [255,255,255],
                 "outerColor": [255,0,255,]
                 "cities": ["Gaia"],
-                "uniqueName": "Dragon and Magic",
-                "uniques": ["[+5 Science, +5 Culture] from every [City center]"],
+                "uniqueName": "マナに溢れる大地",
+                "uniques": ["[+5 Science, +5 Faith] from every [City center]"],
         }
 ]
