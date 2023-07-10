@@ -8,7 +8,7 @@
                 "outerColor": [255,255,255],
                 "cities": ["structure"],
                 "uniqueName": "創造力",
-                "uniques": ["[+1 Production] from every [Mine]","[+1 Production] from every [Lumber mill]","+[5]% Production when constructing [Buildings]","Tile improvement speed +25%"],
+                "uniques": ["[+1 Production] from every [Mine]","[+1 Production] from every [Lumber mill]","+[5]% Production when constructing [Buildings] [in all cities]","Tile improvement speed +25%"],
         },
         {
                 "name": "アルカディア",
