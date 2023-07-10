@@ -1,0 +1,11 @@
+[
+    {
+		"name": "Magic",
+		 "uniques": [
+			"Cannot intercept [Stealth Fighter] units",
+			"Cannot intercept [Stealth Bomber] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+]
