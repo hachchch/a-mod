@@ -4,7 +4,7 @@
                 "replaces": "Garden",
                 "cost": 120,
                 "uniqueTo": "アルカディア",
-                "requiredTech": "Teology",
+                "requiredTech": "Theology",
                 "uniques": ["Provides [2] [マナ]"],
         },
         {
@@ -12,7 +12,7 @@
                 "replaces": "Factory",
                 "cost": 360,
                 "uniqueTo": "アルカディア",
-                "requiredTech": "Teology",
+                "requiredTech": "Theology",
                 "production": 4,
                 "uniques": ["[+10]% [Production] [in this city]"],
                 "requiredResource": "マナ",
