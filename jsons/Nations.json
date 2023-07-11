@@ -20,5 +20,13 @@
                 "cities": ["Gaia"],
                 "uniqueName": "マナに溢れる大地",
                 "uniques": ["[+5 Science, +5 Faith] from every [City center]"],
-        }
-]
+        },
+        {
+                "name": "Esperant",
+                "adjective": ["Esperan"],
+                "leaderName": "Zamenfh",
+                "preferredVictoryType": "Cultural",
+                "innerColor": [255,0,255],
+                "outerColor":[0,0,0],
+                "uniqueName": "",
+                "uniques": ["[+1 Food] from every [Farm] [in all cities]"],
